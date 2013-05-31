@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A39CDB1610BB6873006272B9 /* QTTrackCleanup.m in Sources */ = {isa = PBXBuildFile; fileRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */; };
+		A39CDB1710BB6877006272B9 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A39CDA4910BB6236006272B9 /* CoreFoundation.framework */; };
+		A39CDB1810BB6877006272B9 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A39CDA4A10BB623D006272B9 /* QTKit.framework */; };
+		A39CDB1910BB6877006272B9 /* QuickTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A39CDA4B10BB6244006272B9 /* QuickTime.framework */; };
+		A39CDB1A10BB6877006272B9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A39CDA4810BB622B006272B9 /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A39CDA4810BB622B006272B9 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		A39CDA4910BB6236006272B9 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = /System/Library/Frameworks/CoreFoundation.framework; sourceTree = "<absolute>"; };
+		A39CDA4A10BB623D006272B9 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
+		A39CDA4B10BB6244006272B9 /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = /System/Library/Frameworks/QuickTime.framework; sourceTree = "<absolute>"; };
+		A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QTTrackCleanup.m; sourceTree = "<group>"; };
+		A39CDB1210BB6869006272B9 /* qttrackcleanup */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = qttrackcleanup; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A39CDB1010BB6869006272B9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A39CDB1710BB6877006272B9 /* CoreFoundation.framework in Frameworks */,
+				A39CDB1810BB6877006272B9 /* QTKit.framework in Frameworks */,
+				A39CDB1910BB6877006272B9 /* QuickTime.framework in Frameworks */,
+				A39CDB1A10BB6877006272B9 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A39CDA2E10BB61DA006272B9 = {
+			isa = PBXGroup;
+			children = (
+				A39CDA4C10BB6260006272B9 /* Source */,
+				A39CDABB10BB6295006272B9 /* Products */,
+				A39CDA4D10BB6266006272B9 /* External Frameworks and Libraries */,
+			);
+			sourceTree = "<group>";
+		};
+		A39CDA4C10BB6260006272B9 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		A39CDA4D10BB6266006272B9 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				A39CDA4910BB6236006272B9 /* CoreFoundation.framework */,
+				A39CDA4A10BB623D006272B9 /* QTKit.framework */,
+				A39CDA4B10BB6244006272B9 /* QuickTime.framework */,
+				A39CDA4810BB622B006272B9 /* Cocoa.framework */,
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		A39CDABB10BB6295006272B9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A39CDB1210BB6869006272B9 /* qttrackcleanup */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A39CDB1110BB6869006272B9 /* qttrackcleanup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A39CDB1D10BB6895006272B9 /* Build configuration list for PBXNativeTarget "qttrackcleanup" */;
+			buildPhases = (
+				A39CDB0F10BB6869006272B9 /* Sources */,
+				A39CDB1010BB6869006272B9 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = qttrackcleanup;
+			productName = qttrackcleanup;
+			productReference = A39CDB1210BB6869006272B9 /* qttrackcleanup */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A39CDA3010BB61DA006272B9 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = A39CDA3310BB61DA006272B9 /* Build configuration list for PBXProject "QTTrackCleanup" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = A39CDA2E10BB61DA006272B9;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A39CDB1110BB6869006272B9 /* qttrackcleanup */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A39CDB0F10BB6869006272B9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A39CDB1610BB6873006272B9 /* QTTrackCleanup.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A39CDA3110BB61DA006272B9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		A39CDA3210BB61DA006272B9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+		A39CDB1410BB686A006272B9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = qttrackcleanup;
+			};
+			name = Debug;
+		};
+		A39CDB1510BB686A006272B9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = qttrackcleanup;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A39CDA3310BB61DA006272B9 /* Build configuration list for PBXProject "QTTrackCleanup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A39CDA3110BB61DA006272B9 /* Debug */,
+				A39CDA3210BB61DA006272B9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A39CDB1D10BB6895006272B9 /* Build configuration list for PBXNativeTarget "qttrackcleanup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A39CDB1410BB686A006272B9 /* Debug */,
+				A39CDB1510BB686A006272B9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A39CDA3010BB61DA006272B9 /* Project object */;
+}

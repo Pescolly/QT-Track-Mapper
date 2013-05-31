@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	A32CA92310BBA3190077A3CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 29";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 1464;
+		vrLoc = 3;
+	};
+	A39CDA3010BB61DA006272B9 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = A39CDB1310BB6869006272B9 /* qttrackcleanup */;
+		activeTarget = A39CDB1110BB6869006272B9 /* qttrackcleanup */;
+		addToTargets = (
+		);
+		codeSenseManager = A39CDA3510BB61DA006272B9 /* Code sense */;
+		executables = (
+			A39CDB1310BB6869006272B9 /* qttrackcleanup */,
+		);
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					578,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					878,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					580,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 280794582;
+			PBXWorkspaceStateSaveDate = 280794582;
+		};
+		perUserProjectItems = {
+			A32CA92310BBA3190077A3CE /* PBXTextBookmark */ = A32CA92310BBA3190077A3CE /* PBXTextBookmark */;
+			A3AFC51F10BC9928007E5BC4 /* PBXTextBookmark */ = A3AFC51F10BC9928007E5BC4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A39CDA3410BB61DA006272B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A39CDA3410BB61DA006272B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A39CDA3510BB61DA006272B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 1690}}";
+			sepNavSelRange = "{3450, 0}";
+			sepNavVisRange = "{1755, 1879}";
+			sepNavWindowFrame = "{{15, 101}, {1224, 1072}}";
+		};
+	};
+	A39CDB1110BB6869006272B9 /* qttrackcleanup */ = {
+		activeExec = 0;
+		executables = (
+			A39CDB1310BB6869006272B9 /* qttrackcleanup */,
+		);
+	};
+	A39CDB1310BB6869006272B9 /* qttrackcleanup */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = qttrackcleanup;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A3AFC51F10BC9928007E5BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 114";
+		rLen = 0;
+		rLoc = 3450;
+		rType = 0;
+		vrLen = 1879;
+		vrLoc = 1755;
+	};
+}

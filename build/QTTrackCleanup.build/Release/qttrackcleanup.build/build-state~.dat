@@ -1,0 +1,139 @@
+Tqttrackcleanup
+v7
+r0
+t386672153.617781
+cCheck dependencies
+cProcessPCH /var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h.gch /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/QTTrackCleanup.o /Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup normal i386
+cGenerateDSYMFile /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup.dSYM /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004EA55C5E00000000000000EE
+t1319459934
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004864C3220000000000000418
+t1214563106
+s1048
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004864C165000000000000067F
+t1214562661
+s1663
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050EFB4870000000000673C60
+t1357886599
+s6765664
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050EFB3720000000000785980
+t1357886322
+s7887232
+
+N/Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m
+c00000000515BEDA20000000000000E33
+t1364979106
+s3635
+i<CoreFoundation/CoreFoundation.h>
+i<Foundation/Foundation.h>
+i<QuickTime/QuickTime.h>
+i<QTKit/QTKit.h>
+
+N/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/QTTrackCleanup.o
+t1364979353
+s19808
+
+N/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/qttrackcleanup.LinkFileList
+c00000000515BEE960000000000000083
+t1364979350
+s131
+
+N/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup
+t1364979353
+s13792
+
+N/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup.dSYM
+t1364979353
+s102
+
+N/var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h.gch
+t1364979353
+s52219632
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies386672150#386672150#0(0"0(0#1#0"8619614976#0"0#
+
+CCompileC build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/QTTrackCleanup.o /Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s386672153.091667
+e386672153.556953
+r1
+xCompileC
+xbuild/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/QTTrackCleanup.o
+x/Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m386672153#386672153#0(0"0(0#0#54"/Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m8603158624#1565"    cd /Users/Armen/Downloads/QTTrackCleanup    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-generated-files.hmap -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-own-target-headers.hmap -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-all-target-headers.hmap -iquote /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-project-headers.hmap -F/Users/Armen/Downloads/QTTrackCleanup/build/Release -I/Users/Armen/Downloads/QTTrackCleanup/build/Release/include -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/DerivedSources/i386 -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/DerivedSources -include /var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h -c /Users/Armen/Downloads/QTTrackCleanup/QTTrackCleanup.m -o /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/QTTrackCleanup.o0#
+
+CGenerateDSYMFile /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup.dSYM /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup
+s386672153.584506
+e386672153.617732
+r1
+xGenerateDSYMFile
+x/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup.dSYM
+x/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup
+lSLF07#2@79"GenerateDSYMFile build/Release/qttrackcleanup.dSYM build/Release/qttrackcleanup386672153#386672153#0(0"0(0#0#66"/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup8603057728#219"    cd /Users/Armen/Downloads/QTTrackCleanup    /Developer/usr/bin/dsymutil /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup -o /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup.dSYM0#
+
+CLd /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup normal i386
+s386672153.557046
+e386672153.584406
+r1
+xLd
+x/Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup
+xnormal
+xi386
+lSLF07#2@71"Link /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup386672153#386672153#0(0"0(0#0#0"8598212704#646"    cd /Users/Armen/Downloads/QTTrackCleanup    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Armen/Downloads/QTTrackCleanup/build/Release -F/Users/Armen/Downloads/QTTrackCleanup/build/Release -filelist /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/Objects-normal/i386/qttrackcleanup.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework AppKit -framework CoreFoundation -framework QTKit -framework QuickTime -framework Cocoa -o /Users/Armen/Downloads/QTTrackCleanup/build/Release/qttrackcleanup0#
+
+CProcessPCH /var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h.gch /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s386672150.627996
+e386672153.091472
+r1
+xProcessPCH
+x/var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h386672150#386672153#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8618544320#1472"    cd /Users/Armen/Downloads/QTTrackCleanup    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-generated-files.hmap -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-own-target-headers.hmap -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-all-target-headers.hmap -iquote /Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/qttrackcleanup-project-headers.hmap -F/Users/Armen/Downloads/QTTrackCleanup/build/Release -I/Users/Armen/Downloads/QTTrackCleanup/build/Release/include -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/DerivedSources/i386 -I/Users/Armen/Downloads/QTTrackCleanup/build/QTTrackCleanup.build/Release/qttrackcleanup.build/DerivedSources -c /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/yi/yiGK-L0UE1i-ly0mVSOyYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-budwisrzmxmqxjhfdahuytrpqedb/AppKit.h.gch0#
+

@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	A39CDA3010BB61DA006272B9 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = C0E772A0170C22DA003576A8 /* qttrackcleanup */;
+		activeTarget = A39CDB1110BB6869006272B9 /* qttrackcleanup */;
+		codeSenseManager = C0E772AB170C22DE003576A8 /* Code sense */;
+		executables = (
+			C0E772A0170C22DA003576A8 /* qttrackcleanup */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 386763646;
+			PBXWorkspaceStateSaveDate = 386763646;
+		};
+		perUserProjectItems = {
+			C074CEEE170C2BEC007D0ABF /* PBXTextBookmark */ = C074CEEE170C2BEC007D0ABF /* PBXTextBookmark */;
+			C074CEEF170C2BEC007D0ABF /* PBXTextBookmark */ = C074CEEF170C2BEC007D0ABF /* PBXTextBookmark */;
+			C0FD4055170D8B90006AF0F2 /* PBXTextBookmark */ = C0FD4055170D8B90006AF0F2 /* PBXTextBookmark */;
+			C0FD4056170D8B90006AF0F2 /* PBXTextBookmark */ = C0FD4056170D8B90006AF0F2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C0E772AA170C22DE003576A8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 1768}}";
+			sepNavSelRange = "{2729, 0}";
+			sepNavVisRange = "{421, 2494}";
+			sepNavWindowFrame = "{{15, 55}, {889, 1118}}";
+		};
+	};
+	A39CDB1110BB6869006272B9 /* qttrackcleanup */ = {
+		activeExec = 0;
+		executables = (
+			C0E772A0170C22DA003576A8 /* qttrackcleanup */,
+		);
+	};
+	C074CEEE170C2BEC007D0ABF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 79";
+		rLen = 0;
+		rLoc = 2136;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 1910;
+	};
+	C074CEEF170C2BEC007D0ABF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 85";
+		rLen = 0;
+		rLoc = 2310;
+		rType = 0;
+		vrLen = 2357;
+		vrLoc = 1400;
+	};
+	C0E772A0170C22DA003576A8 /* qttrackcleanup */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = qttrackcleanup;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C0E772AA170C22DE003576A8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C0E772AB170C22DE003576A8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C0FD4055170D8B90006AF0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 79";
+		rLen = 0;
+		rLoc = 2136;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 1910;
+	};
+	C0FD4056170D8B90006AF0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A39CDABD10BB63AA006272B9 /* QTTrackCleanup.m */;
+		name = "QTTrackCleanup.m: 96";
+		rLen = 0;
+		rLoc = 2729;
+		rType = 0;
+		vrLen = 2494;
+		vrLoc = 421;
+	};
+}
